@@ -22,7 +22,7 @@
             .content-wrapper.px-lg-4.pt-lg-4.px-xxl-5.py-xxl-5.text-start
               p.home-main-title UNIDAD {{ `${globalData.numeroUnidad}` }}
               h1.home-title.mb-4 {{ globalData.tituloUnidad }}
-              p.descripcion.mb-4 La Unidad 1 de Deontología explora los fundamentos filosóficos y aplicados de la ética profesional en la administración. Analiza corrientes como kantismo, utilitarismo, contractualismo y virtudismo, diferenciando ética y moral, y resaltando su impacto en las decisiones organizacionales. Se destaca la ética como base del “deber ser”, orientando la creación e interpretación de normas justas. Además, se estudian dilemas ético-morales y se enfatiza la ética como pilar de la cultura organizacional. Esta formación fortalece el liderazgo ético y la responsabilidad social, en la gestión empresarial.
+              p.descripcion.mb-4 La Unidad 2 de Deontología, aborda los principios éticos en la administración de empresas, centrando el análisis en la relación del administrador con clientes, autoridades, terceros y en su toma de decisiones. Se enfatiza la confianza, la responsabilidad, la transparencia y la justicia como ejes de una gestión ética. También se desarrollan criterios para establecer honorarios, prevenir conflictos de intereses y aplicar métodos éticos en la resolución de conflictos y gestión de riesgos. Esta unidad busca formar administradores íntegros que actúen con responsabilidad social y orientados al bien común.
 
               .button-container.mt-auto
                 router-link.btn-iniciar.w-100.w-md-auto(:to="{ name: 'introduccion' }")

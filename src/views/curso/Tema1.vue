@@ -1,10 +1,29 @@
 <template lang="pug">
 .curso-main-container.pb-3
-  BannerInterno(:subTitulo="'1. Título tema'")
+  BannerInterno(:subTitulo="'1. Relación del administrador con el cliente y deberes profesionales'")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.overflow-hidden
 
+
+    .row.align-items-center.mb-5
+      .col-lg
+        p.mb-0 A continuación, se analiza la relación ética entre el administrador de empresas y sus clientes, destacando los principios y responsabilidades que rigen esta interacción profesional en función del bien común, la transparencia y la integridad institucional.
+      .col-lg-auto
+        img(src="@/assets/curso/tema1/1.svg", style="max-width: 295px").mx-auto
+
+
+    .bg-full-width.bg-fondo-slider.mb-5
+      .p-4.p-md-5
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/9cqLwqWDCzs?si=F1b2M6SlLRnGqFf9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+
     #t_1_1.titulo-segundo(data-aos="flip-up")
-      h2 #[span 1.1] Subtítulo tema
+      h2 #[span 1.1] Principios éticos que rigen la relación entre administrador y cliente
+
+    p.mb-4 En el contexto administrativo, los principios éticos orientan las decisiones y acciones del profesional, asegurando una relación justa y constructiva con los clientes. Estos principios no solo estructuran la práctica profesional, sino que también fortalecen la cultura organizacional y el impacto social de la gestión.
+    
+    
 
     .bg-full-width.border-top.color-primario
       .p-4.p-md-5
