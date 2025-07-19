@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1329" height="559" viewBox="0 0 1329 559">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_423047" data-name="Rectángulo 423047" width="1329" height="559" transform="translate(136 340)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0.63"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_423046" data-name="Rectángulo 423046" width="1329" height="596" transform="translate(-0.001)" fill="#48396f"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectángulo_423041" data-name="Rectángulo 423041" width="1482.833" height="595.823" fill="#1172b3"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Rectángulo_423040" data-name="Rectángulo 423040" width="1482.833" height="595.823" fill="#083e61"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <rect id="Rectángulo_423044" data-name="Rectángulo 423044" width="511" height="199.651" fill="#083e61"/>
+    </clipPath>
+    <clipPath id="clip-path-9">
+      <rect id="Rectángulo_423045" data-name="Rectángulo 423045" width="666" height="233.662" fill="#1172b3"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_1225081" data-name="Enmascarar grupo 1225081" transform="translate(-136 -340)" clip-path="url(#clip-path)">
+    <g id="Grupo_1232037" data-name="Grupo 1232037" transform="translate(0 -21)">
+      <g id="Enmascarar_grupo_1225080" data-name="Enmascarar grupo 1225080" transform="translate(136.001 361)" clip-path="url(#clip-path-2)">
+        <path id="Trazado_1194243" data-name="Trazado 1194243" d="M0,0H1329V596H0Z" transform="translate(-0.001)" fill="#083e61"/>
+        <g id="Grupo_1232027" data-name="Grupo 1232027" transform="translate(0.167 0.558)">
+          <g id="Grupo_1232026" data-name="Grupo 1232026" opacity="0.56" clip-path="url(#clip-path-3)">
+            <g id="Grupo_1232025" data-name="Grupo 1232025">
+              <g id="Grupo_1232024" data-name="Grupo 1232024" clip-path="url(#clip-path-4)">
+                <g id="Grupo_1232023" data-name="Grupo 1232023" opacity="0.5">
+                  <g id="Grupo_1232022" data-name="Grupo 1232022">
+                    <g id="Grupo_1232021" data-name="Grupo 1232021" clip-path="url(#clip-path-3)">
+                      <path id="Trazado_1194244" data-name="Trazado 1194244" d="M1483.092,136.109c-288.985-56.343-882.949,107.95-936.019,459.157H145S129.771,432.163,0,384.541V0H1483.092Z" fill="#1172b3"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Grupo_1232034" data-name="Grupo 1232034" opacity="0.7">
+          <g id="Grupo_1232033" data-name="Grupo 1232033" clip-path="url(#clip-path-6)">
+            <g id="Grupo_1232032" data-name="Grupo 1232032">
+              <g id="Grupo_1232031" data-name="Grupo 1232031" clip-path="url(#clip-path-6)">
+                <g id="Grupo_1232030" data-name="Grupo 1232030" opacity="0.5">
+                  <g id="Grupo_1232029" data-name="Grupo 1232029">
+                    <g id="Grupo_1232028" data-name="Grupo 1232028" clip-path="url(#clip-path-6)">
+                      <path id="Trazado_1194245" data-name="Trazado 1194245" d="M0,102.35C79,233.233,342,261.5,511,0H0Z" fill="#083e61"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Grupo_1232036" data-name="Grupo 1232036" transform="translate(663 362.72)" opacity="0.52">
+          <g id="Grupo_1232035" data-name="Grupo 1232035" opacity="0.69" clip-path="url(#clip-path-9)">
+            <path id="Trazado_1194246" data-name="Trazado 1194246" d="M666,6.126C382.565-28.724,61.681,90.232,0,233.662H666Z" transform="translate(0 0)" fill="#1172b3"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
