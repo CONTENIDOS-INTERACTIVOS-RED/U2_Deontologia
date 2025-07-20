@@ -443,15 +443,11 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/274611" target="_blank" rel="noopener noreferrer") De Castro Emilio Cerdá, F. J. A. L. M. (s/f). Las energías renovables en el ámbito internacional. Revistasice.com. 
-
-            p.d-flex.my-4
-              img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-              span De Janeiro, R. (1992). La declaración del Río sobre el Medio Ambiente y el Desarrollo. Río de Janeiro República Federativa del Brasil., aprobada en Estocolmo el, 16.
+              a(href="https://www.iberdrola.com/documents/20125/4964646/codigo-conducta-administradores-profesionales-proveedores.pdf" target="_blank" rel="noopener noreferrer") Iberdrola. (2025). Código de conducta de administradores, profesionales y proveedores. 
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://youtu.be/QKLjwCMyv3M?si=uAWhO9tnyghljaJg" target="_blank" rel="noopener noreferrer") Innovación y sostenibilidad.
+              a(href="https://www.youtube.com/watch?v=eWoP3OHqzF8" target="_blank" rel="noopener noreferrer") Sprouts Español. (2021). Las 6 Etapas del Desarrollo Moral de Kohlberg [video]. YouTube.
 
           .col-12.col-md-6.col-lg-3.offset-lg-1
             figure
